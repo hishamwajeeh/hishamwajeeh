@@ -9,12 +9,12 @@
     </a>
   </p>
 
-  <p align="center">
+  <p align="left">
       <img src="https://komarev.com/ghpvc/?username=hishamwajeeh&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
   </p>
 
-<h3 align="center">📤 Contacts: -</h3>
-  <p align="center">
+<h3 align="left">📤 Contacts: -</h3>
+  <p align="left">
     <a href="https://www.linkedin.com/in/hishamwajeeh/"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
     </a>&nbsp;
@@ -29,8 +29,8 @@
     </a>
   </p>
 
-<h3 align="center">🛠️ Languages & Tools:</h3>
-<p align="center">
+<h3 align="left">🛠️ Languages & Tools:</h3>
+<p align="left">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-225995.png?f=webp&w=512" height="45"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226095.png?f=webp&w=512" height="45"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-225993.png?f=webp&w=512" height="45"/>&nbsp;
@@ -46,12 +46,12 @@
 </p>
 
   
-<h3 align="center">🏆 GitHub Trophies:</h3>
-  <p align="center">
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=hishamwajeeh&theme=onestar&row=1&column=7"/>
   </p>
   <br>
 
-  <p align="center">
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hishamwajeeh&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
   </p>
