@@ -9,7 +9,7 @@
     </a>
   </p>
 
-  <p align="left">
+  <p align="center">
       <img src="https://komarev.com/ghpvc/?username=hishamwajeeh&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
   </p>
 
@@ -52,6 +52,6 @@
   </p>
   <br>
 
-  <p align="left">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hishamwajeeh&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
   </p>
