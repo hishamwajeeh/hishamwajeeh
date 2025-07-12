@@ -52,6 +52,6 @@
   </p>
   <br>
 
-  <p align="center">
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hishamwajeeh&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
   </p>
