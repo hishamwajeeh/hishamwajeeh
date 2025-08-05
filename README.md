@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/hishamwajeeh/"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
     </a>&nbsp;
-   <a href="mailto:yourgmailaddress@gmail.com"> <!-- Replace with your actual Gmail address -->
+   <a href="mailto:hishamwajeeh@gmail.com"> <!-- Replace with your actual Gmail address -->
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-3-pack-logos-icons-2944897.png?f=webp&w=512" height="45" alt="Email Me"/>
 </a>&nbsp;
     <a href="https://www.instagram.com/hishamwajeehx"> <!-- Instagram Profile -->
